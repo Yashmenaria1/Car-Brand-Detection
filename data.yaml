@@ -1,0 +1,36 @@
+path: '/content/gdrive/My Drive/car_logo_data_set/data'                    #dataset root dir
+train: train/images                  #train images (relative to 'path')
+val: val/images                 # val images (relative to 'path')
+test: test/images                    # test images (optional)
+
+# Classes
+names:
+    0: Ashok Leyland
+    1: Audi
+    2: Bentley
+    3: Bharat Benz
+    4: BMW
+    5: Eicher Motors
+    6: Ford
+    7: Honda
+    8: Hyundai
+    9: Jaguar
+    10: KIA
+    11: Land Rover
+    12: Mahindra
+    13: Maruti Suzuki
+    14: Mercedes
+    15: MG Motors
+    16: Nissan
+    17: Renault
+    18: Rolls Royce
+    19: Skoda
+    20: Swaraj Mazda
+    21: Tata
+    22: Toyota
+    23: Volkswagen
+    24: Volvo
+
+
+
+
